@@ -197,8 +197,8 @@ import mysql.connector
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-cnx = mysql.connector.connect(user='root', password='Lin@911018',
-                              host='138.197.115.58',database='casper')
+cnx = mysql.connector.connect(user='****', password='*****',
+                              host='****',database='casper')
 cursor = cnx.cursor()
 ```
 
@@ -241,7 +241,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](/DataAnalysisonCasperData_files/output_17_0.png)
 
 
 
@@ -269,7 +269,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](/DataAnalysisonCasperData_files/output_18_0.png)
 
 
 
@@ -307,7 +307,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](/DataAnalysisonCasperData_files/output_20_0.png)
 
 
 
@@ -355,4 +355,4 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png](/DataAnalysisonCasperData_files/output_21_0.png)
